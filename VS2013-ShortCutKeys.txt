@@ -1,0 +1,13 @@
+ctrl + j：强迫智能感知
+
+ctrl + z：撤销
+
+ctrl + shift + space：强迫像是参数
+
+F2：重命名
+
+ctrl + k, x：插入代码段
+
+ctrl + e, c：注释
+
+ctrl + f：查找和替换，ctrl + e, d就可以全部格式化，你将发现“原来世界可以这么美好”
